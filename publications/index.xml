@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>/publications/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jan 2018 15:42:17 +0100</lastBuildDate>
+    
+	<atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detecting visual relationships using box attention</title>
+      <link>/publications/pub6/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:39 +0100</pubDate>
+      
+      <guid>/publications/pub6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Open Images Dataset V4: Unified image classification, object detection, and visual relationship detection at scale</title>
+      <link>/publications/pub7/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:38 +0100</pubDate>
+      
+      <guid>/publications/pub7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting View-Specific Appearance Similarities Across Classes for Zero-shot Pose Prediction: A Metric Learning Approach</title>
+      <link>/publications/pub2/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:37 +0100</pubDate>
+      
+      <guid>/publications/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand pose recognition using a consumer depth camera</title>
+      <link>/publications/pub1/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:36 +0100</pubDate>
+      
+      <guid>/publications/pub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expanding Object Detector&#39;s Horizon: Incremental Learning Framework for Object Detection in Videos</title>
+      <link>/publications/pub4/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:35 +0100</pubDate>
+      
+      <guid>/publications/pub4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting View-Specific Appearance Similarities Across Classes for Zero-shot Pose Prediction: A Metric Learning Approach</title>
+      <link>/publications/pub3/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:35 +0100</pubDate>
+      
+      <guid>/publications/pub3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implementing Second-Order Decision Analysis: Concepts, Algorithms, and Tool</title>
+      <link>/publications/pub5/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      
+      <guid>/publications/pub5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning an image-based motion context for multiple people tracking</title>
+      <link>/publications/pub8/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      
+      <guid>/publications/pub8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On calibration of a low-cost time-of-flight camera</title>
+      <link>/publications/pub9/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:34 +0100</pubDate>
+      
+      <guid>/publications/pub9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hand pose estimation from a single rgb-d image</title>
+      <link>/publications/pub10/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>/publications/pub10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Real-time sign language recognition using a consumer depth camera</title>
+      <link>/publications/pub11/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:33 +0100</pubDate>
+      
+      <guid>/publications/pub11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA-enhanced stochastic optimization methods</title>
+      <link>/publications/pub12/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:32 +0100</pubDate>
+      
+      <guid>/publications/pub12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
