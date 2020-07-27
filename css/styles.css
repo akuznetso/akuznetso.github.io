@@ -10,15 +10,14 @@ html, body {
   }
 }
 
-@media (min-width: 64em) {
+@media (min-width: 58em) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
 @media (min-width: 48em) {
   .content {
-    margin-top: 1em;
     margin-left: 21rem;
     margin-right: 2rem;
   }
@@ -26,56 +25,20 @@ html, body {
 
 @media (min-width: 64em) {
   .content {
-    margin-top: 1em;
-    margin-left: 32rem;
+    margin-left: 22rem;
     margin-right: 3rem;
   }
 }
 
-@media (min-width: 48em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 19rem;
-    text-align: left; 
-    display: flex;
-    flex-direction: column;
-  }
-  .sidebar .contactsbar {
-    justify-content: left;
-  } 
-}
-
-
-@media (min-width: 64em) {
-  .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 29rem;
-    text-align: left; 
-    display: flex;
-    flex-direction: column;
-  }
-}
-
-/* Sidebar default */
+/* Sidebar */
 .sidebar {
   overflow: auto;
   text-align: center;
-  padding: 10rem 1rem 0rem 0rem;
+  padding: 1rem 1rem;
   color: white;
   display: flex;
   flex-direction: column;
 }
-
-.content {
-  margin-top:1em;
-}
-
 .sidebar .contactsbar {
   justify-content: center;
 } 
@@ -112,6 +75,27 @@ html, body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 19rem;
+    text-align: left; 
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media (min-width: 48em) {
+  .sidebar .contactsbar {
+    justify-content: left;
+  } 
+  .sidebar ul li { 
+    padding-left: 2em;
+  }
+}
 
 .site-title {
   margin-top: 0px;
@@ -135,11 +119,11 @@ html, body {
 
 .sidebar ul li {
   list-style: none;
-  padding-left: 0em; 
+/*  padding-left: 2em; */
 }
 
 nav {
-  margin: 1em 0em 1em 0em;
+  margin: 1em 0 1em 0;
 }
 
 .sidebar .navigation {
@@ -160,17 +144,8 @@ nav {
 }
 
 .sidebar nav.external {
-  font-size: 120%;
+  font-size: 80%;
 }
-
-.sidebar nav.internal {
-  font-size: 150%;
-}
-
-.sidebar .internal-title {
-  font-size: 200%;
-}
-
 
 /* Blocks */
 .block {
@@ -227,18 +202,16 @@ nav {
 /* Section of the page */
 section.page {
   margin-bottom: 3em;
-  max-width: 64em;
 }
 
 section.page h3 {
   border-left: 3px solid #363636;
   padding-left: 0.5em;
   margin-bottom: 0;
-  margin-left: 0.5em;
 }
 
 section.page .content {
-  margin-left: 2em;
+  margin-left: 0.5em;
   margin-top: 2em;
 }
 
