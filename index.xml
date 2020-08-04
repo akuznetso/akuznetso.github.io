@@ -6,10 +6,19 @@
     <description>Recent content on Alina Kuznetsova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Feb 2020 00:00:17 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2020 00:00:17 +0100</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/news/news2020-08-04/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:17 +0100</pubDate>
+      
+      <guid>/news/news2020-08-04/</guid>
+      <description>Robust Vision Challenge deadline is extended to the 14th of August! Robust vision challenge still has zero entries on Object Detection and Instance Segmentation leaderboards - great opportunity to win first or second place monetary prizes and visibility computer vision community.</description>
+    </item>
     
     <item>
       <title></title>
