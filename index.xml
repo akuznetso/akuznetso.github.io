@@ -6,10 +6,15 @@
     <description>Recent content on Alina Kuznetsova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Nov 2021 00:00:17 +0100</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:17 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/news/news2024-01-02/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:17 +0100</pubDate>
+      
+      <guid>/news/news2024-01-02/</guid>
+      <description>Check out our new paper on scalable generic object tracking Beyond SOT: Tracking Multiple Generic Objects at Once! The work will be presented on WACV&#39;24 Our new benchmark LaGOT is available at github while the code is released in PyTracking repo.</description>
+    </item>
     
     <item>
       <title></title>
@@ -17,7 +22,7 @@
       <pubDate>Mon, 01 Nov 2021 00:00:17 +0100</pubDate>
       
       <guid>/news/news2021-11-05/</guid>
-      <description>Transfer learning in action: check out our new paper &amp;quot;Factors of Influence for Transfer Learning across Diverse Appearance Domains and Task Types&amp;quot; - now published at TPAMI 2021!</description>
+      <description>Transfer learning in action: check out our new paper &amp;ldquo;Factors of Influence for Transfer Learning across Diverse Appearance Domains and Task Types&amp;rdquo; - now published at TPAMI 2021!</description>
     </item>
     
     <item>
@@ -26,7 +31,7 @@
       <pubDate>Fri, 01 Jan 2021 00:00:17 +0100</pubDate>
       
       <guid>/news/news2021-01-01/</guid>
-      <description>I serve as an area chair for WACV&amp;rsquo;21.</description>
+      <description>I serve as an area chair for WACV&#39;21.</description>
     </item>
     
     <item>
@@ -54,6 +59,15 @@
       
       <guid>/news/news2019-11-21/</guid>
       <description>Open Images Challenge 2019 is over! Check out the results on Open Images Challenge website.</description>
+    </item>
+    
+    <item>
+      <title>Beyond SOT: Tracking Multiple Generic Objects at Once</title>
+      <link>/publications/pub15/</link>
+      <pubDate>Thu, 01 Jan 1970 01:33:44 +0100</pubDate>
+      
+      <guid>/publications/pub15/</guid>
+      <description></description>
     </item>
     
     <item>
